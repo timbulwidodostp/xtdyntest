@@ -1,0 +1,4 @@
+D 'vuong': Performs Vuong (1989 Econometrica) test comparing (possibly) non-nested linear regression specifications Use vuong With STATA 19
+D
+F vuong.ado
+F vuong.hlp

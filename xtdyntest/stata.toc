@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p vuong Performs Vuong (1989 Econometrica) test comparing (possibly) non-nested linear regression specifications Use vuong With STATA 19
