@@ -1,4 +1,17 @@
-D 'vuong': Performs Vuong (1989 Econometrica) test comparing (possibly) non-nested linear regression specifications Use vuong With STATA 19
+D 'xtdyntest': Performs Vuong (1989 Econometrica) test comparing (possibly) non-nested linear regression specifications Use vuong With STATA 19
 D
-F vuong.ado
-F vuong.hlp
+F lxtabond2.mlib
+F lxtdpdgmm.mlib
+F xtab2_p.ado
+F xtabond2.ado
+F xtabond2.hlp
+F xtabond2.mata
+F xtdpdgmm.ado
+F xtdpdgmm.sthlp
+F xtdpdgmm_estat.ado
+F xtdpdgmm_p.ado
+F xtdpdgmm_postestimation.sthlp
+F xtdpdgmmfe.ado
+F xtdpdgmmfe.sthlp
+F xtdyntest.ado
+F xtdyntest.sthlp
