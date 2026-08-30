@@ -1,5 +1,5 @@
 # xtdyntest
-Specification tests after dynamic panel-data GMM estimation Use xtdyntest With (In) STATA 19
+Specification tests after dynamic panel-data GMM estimation Use xtdyntest With STATA 19
 
 Olah Data Semarang
 
