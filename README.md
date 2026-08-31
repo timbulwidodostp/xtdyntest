@@ -1,6 +1,8 @@
 # xtdyntest
 Specification tests after dynamic panel-data GMM estimation Use xtdyntest With STATA 19
 
+https://www.youtube.com/watch?v=Miv9MS1iO7U
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
